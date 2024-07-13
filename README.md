@@ -13,7 +13,7 @@ Enjoy a fun number guessing game on your Android device! Guess the hidden number
 - Version Control: Git
 ## Screenshots :
 <div>
-  <img src="app/src/main/res/drawable/ic_launcher_background.xml" width="150" height="150">
+  <img src="app/src/main/res/drawable/img.png" width="150" height="150">
 </div>
 
 ## Installation :
