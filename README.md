@@ -1,6 +1,6 @@
 Number Guessing Game
 Enjoy a fun number guessing game on your Android device! Guess the hidden number within a range and challenge yourself with each attempt. Perfect for sharpening your guessing skills and enjoying moments of playful challenge.
-   Features : 
+  /n Features : 
 - Random Number Generation: Generates a random number within a specified range.
 - User Input: Allows users to guess the number through a simple input interface.
 - Feedback System: Provides feedback on whether the guessed number is too high, too low, or correct.
