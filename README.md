@@ -13,7 +13,9 @@ Enjoy a fun number guessing game on your Android device! Guess the hidden number
 - Version Control: Git
 ## Screenshots :
 <div>
-  <img src="app/src/main/res/drawable/img_4.png" width="150" height="150">
+  <img src="app/src/main/res/drawable/img_4.png" width="250" height="400">
+  <img src="app/src/main/res/drawable/img_3.png" width="250" height="400">
+  <img src="app/src/main/res/drawable/img_2.png" width="250" height="400">
 </div>
 
 ## Installation :
