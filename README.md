@@ -12,6 +12,7 @@ Enjoy a fun number guessing game on your Android device! Guess the hidden number
 - IDE: Android Studio
 - Version Control: Git
 ## Screenshots :
+<img src="app/src/main/res/drawable/ic_launcher_background.xml" width="150" height="150">
 ## Installation :
 1. Clone the repository :
 ~~~
